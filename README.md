@@ -5,7 +5,8 @@
 <br>
 
 ### Installation
-- Just place the dll in your Beat Saber/plugins folder
+- Download the release: https://github.com/m22spencer/BeatSaberOpenXRMultiPass/releases/tag/0.0.1
+- Extract and place the dll in your Beat Saber/plugins folder
 <br>
 
 ### Possible issues
